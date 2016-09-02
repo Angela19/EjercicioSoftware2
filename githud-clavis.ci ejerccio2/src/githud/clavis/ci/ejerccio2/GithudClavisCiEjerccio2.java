@@ -1,21 +1,26 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
  */
 package githud.clavis.ci.ejerccio2;
 
 /**
- *
- * @author Usuario
+ *Nombre: Angela Margarita Morante Moreira
+ * Curso: Quinto "B"
+ * Materia: Ingenieria de Software 2
+ * Profesor: Ing. Diego Toala
+ * tarea: travis-CI con Githud 
  */
 public class GithudClavisCiEjerccio2 {
 
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args) 
+    {
+        for(int i=0; i<=12; i++)
+        {
+            System.out.print("2*"+i+"="+12*i+"/n");
+        }
+        
     }
     
 }
