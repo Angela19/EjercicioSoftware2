@@ -18,6 +18,7 @@ public class GithudClavisCiEjerccio2 {
     {
         for(int i=0; i<=12; i++)
         {
+            
             System.out.print("2*"+i+"="+12*i+"n"); 
             
             
